@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "GameVisualSimulationTest",
+            "request": "launch",
+            "mainClass": "test.GameVisualSimulationTest",
+            "projectName": "MyMicroRTSBot_300d36c2",
+            "cwd": "/Users/austinly/Documents/Projects/microrts"
+        },
+        {
+            "type": "java",
+            "name": "GameVisualSimulationTest",
+            "request": "launch",
+            "mainClass": "GameVisualSimulationTest",
+            "projectName": "MyMicroRTSBot_300d36c2"
+        }
+    ]
+}
